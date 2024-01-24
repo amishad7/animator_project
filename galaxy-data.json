@@ -1,0 +1,96 @@
+{
+  "galaxy": "Milky Way",
+  "planets": [
+    {
+      "name": "Mercury",
+      "type": "Terrestrial",
+      "orbit_distance_km": 57910000,
+      "diameter_km": 4879,
+      "mass_kg": 3.3011e23,
+      "moons": 0,
+      "des" : "The smallest planet in our solar system and nearest to the Sun, Mercury is only slightly larger than Earth's Moon. Mercury's surface temperatures are both extremely hot and cold. Because the planet is so close to the Sun, day temperatures can reach highs of 800°F (430°C). Without an atmosphere to retain that heat at night, temperatures can dip as low as -290°F (-180°C). From the surface of Mercury, the Sun would appear more than three times as large as it does when viewed from Earth, and the sunlight would be as much as seven times brighter. Despite its proximity to the Sun, Mercury is not the hottest planet in our solar system – that title belongs to nearby Venus, thanks to its dense atmosphere. But Mercury is the fastest planet, zipping around the Sun every 88 Earth days. Mercury's surface resembles that of Earth's moon, scarred by many impact craters resulting from collisions with meteoroids and comets. The first spacecraft to visit Mercury was Mariner 10, which imaged about 45 percent of the surface. NASA's MErcury Surface, Space ENvironment, GEochemistry, and Ranging (MESSENGER) mission flew by Mercury three times in 2008-2009 and orbited the planet from 2011 to 2015, mapping the entire surface.",
+      "image" : "https://kunisan.jp/planets/mercury.gif",
+
+      "des2" : "The smallest planet in our solar system has a big presence in our collective imagination. Scores of science fiction writers have been inspired by Mercury, including Isaac Asimov, C. S. Lewis, Ray Bradbury, Arthur C. Clarke, and H. P. Lovecraft. Television and film writers, too, have found the planet an ideal location for storytelling. In the 2007 film \"Sunshine,\" the Icarus II spacecraft goes into orbit around Mercury to rendezvous with the Icarus I."
+    },
+    {
+      "name": "Venus",
+      "type": "Terrestrial",
+      "orbit_distance_km": 108200000,
+      "des": "Venus is the second planet from the sun and is often referred to as Earth's 'sister planet' due to its similar size and mass. It has a thick atmosphere composed mainly of carbon dioxide, and its surface is hot enough to melt lead. Venus is known for its retrograde rotation, where it spins in the opposite direction to most other planets.",
+      "des2": "Venus has been a subject of interest and inspiration in various mythologies and cultures. It is named after the Roman goddess of love and beauty, and its brilliant appearance in the morning or evening sky has led to various cultural interpretations.",
+      "diameter_km": 12104,
+      "mass_kg": 4.8675e24,
+      "image" : "https://www.solarsystemscope.com/spacepedia/images/handbook/renders/venus.png",
+      "moons": 0
+    },
+    {
+      "name": "Earth",
+      "type": "Terrestrial",
+      "orbit_distance_km": 149600000,
+      "diameter_km": 12742,
+      "des2": "The unique conditions on Earth that support life make it a precious and fragile planet. It is the only place in the known universe where life exists, and its protection and sustainability are of utmost importance.",
+      "des": "Earth is the third planet from the sun and the only known celestial body to support life. It has a diverse range of ecosystems, an oxygen-rich atmosphere, and a variety of climates. Earth is characterized by its vast oceans, continents, and a dynamic atmosphere that sustains a wide array of flora and fauna.",
+      "mass_kg": 5.97219e24,
+      "moons": 1,
+      "image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Rotating_earth_%28huge%29.gif/480px-Rotating_earth_%28huge%29.gif"
+    },
+    {
+      "name": "Mars",
+      "type": "Terrestrial",
+      "orbit_distance_km": 227900000,
+      "diameter_km": 6779,
+      "mass_kg": 6.4171e23,
+      "des": "Mars is the fourth planet from the sun and is known for its reddish appearance, caused by iron oxide (rust) on its surface. It has the largest volcano and canyon in the solar system, Olympus Mons and Valles Marineris, respectively. Mars has been a key target for exploration, with numerous missions sent to study its surface and search for signs of past or present life.",
+      "des2": "Mars has been a source of fascination and inspiration for humans for centuries. It has been a popular subject in literature, science fiction, and astronomy. The possibility of human colonization of Mars is also a topic of ongoing research and discussion.",
+      "moons": 2,
+      "image" : "https://www.solarsystemscope.com/spacepedia/images/handbook/renders/mars.png"
+    },
+    {
+      "name": "Jupiter",
+      "type": "Gas Giant",
+      "orbit_distance_km": 778500000,
+      "diameter_km": 139820,
+      "mass_kg": 1.898e27,
+      "des": "Jupiter is the largest planet in our solar system and is composed mostly of hydrogen and helium. It has a strong magnetic field, numerous moons, and a prominent feature known as the Great Red Spot, a massive storm that has been raging for centuries. Jupiter's immense size and gravitational influence play a crucial role in shaping the architecture of the solar system.",
+      "des2": "Jupiter's massive size and gravitational pull have made it a protective force in the solar system. Its presence helps deflect and capture comets and asteroids, reducing the likelihood of these objects colliding with Earth.",
+      "moons": 79,
+      "image" : "https://www.solarsystemscope.com/spacepedia/images/handbook/renders/jupiter.png"
+    },
+    {
+      "name": "Saturn",
+      "type": "Gas Giant",
+      "orbit_distance_km": 1433500000,
+      "diameter_km": 116460,
+      "mass_kg": 5.683e26,
+      "moons": 83,
+      "des2": "Saturn's ring system is one of the most iconic features in our solar system. The rings are made up of countless particles, ranging in size from tiny grains to large moonlets. The exact origin of the rings is still a subject of scientific investigation.",
+      "des": "Saturn is the second-largest planet and is renowned for its stunning ring system, consisting of icy particles and debris. It has a complex atmosphere, with a prominent hexagonal storm at its north pole. Saturn's extensive system of rings and diverse collection of moons make it a captivating subject for scientific study and space exploration.",
+
+      "image" : "https://www.solarsystemscope.com/spacepedia/images/handbook/renders/saturn.png"
+    },
+    {
+      "name": "Uranus",
+      "type": "Ice Giant",
+      "orbit_distance_km": 2872500000,
+      "diameter_km": 50724,
+      "des": "Uranus is an ice giant with a unique feature – it rotates on its side, likely due to a massive collision early in its history. It has a faint ring system and a bluish-green hue caused by the presence of methane in its atmosphere. Uranus has a relatively low internal heat production, and its atmospheric composition is of great interest to astronomers.",
+
+      "des2": "Uranus was the first planet to be discovered with a telescope. It was observed by German-born British astronomer Sir William Herschel in 1781. The discovery expanded our understanding of the solar system and challenged existing astronomical beliefs.",
+      "mass_kg": 8.681e25,
+      "moons": 27,
+      "image" : "https://upload.wikimedia.org/wikipedia/commons/3/34/Transparent_Uranus.png"
+    },
+    {
+      "name": "Neptune",
+      "type": "Ice Giant",
+      "orbit_distance_km": 4501000000,
+      "diameter_km": 49244,
+      "mass_kg": 1.024e26,
+      "moons": 14,
+      "des": "Neptune is the eighth and farthest known planet from the sun in our solar system. It is an ice giant, similar to Uranus, and has a vivid blue coloration due to the presence of methane in its atmosphere. Neptune has a strong magnetic field, fast winds, and a system of dark spots reminiscent of Jupiter's Great Red Spot. It is a dynamic and mysterious world, and its exploration has added to our understanding of the outer solar system.",
+      "des2": "Neptune's deep blue color, strong winds, and active atmosphere make it a captivating subject of study. The planet's features, including its dark spots and clouds, have been observed and analyzed by various space missions, enhancing our knowledge of the distant ice giant.",
+      "image" : "https://www.solarsystemscope.com/spacepedia/images/handbook/renders/neptune.png"
+    }
+  ]
+}
