@@ -1,8 +1,7 @@
 import 'dart:math';
-
 import 'package:animator/app/views/home_view/model/apimodel.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter/services.dart';
+//import 'package:flutter/services.dart';
 import 'package:google_fonts/google_fonts.dart';
 
 class SubView extends StatefulWidget {
