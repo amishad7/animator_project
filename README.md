@@ -19,14 +19,16 @@ themes, a splash screen, and detailed planet screens, the app offers a comprehen
 users to explore the wonders of the galaxy through captivating animations.
 
 ## Project Objectives:
-Implicit Animation: The app utilizes Implicit Animation techniques to create smooth and
+
+- Implicit Animation: The app utilizes Implicit Animation techniques to create smooth and
 visually appealing animations. Implicit animations are seamlessly integrated into various UI
 elements, enhancing the overall user experience and providing a dynamic and engaging interface.
 Explicit Animation: "Galaxy Planets (Animator)" showcases the power of Explicit Animation,
 allowing users to interact with specific UI elements to trigger stunning and interactive
 animations. Users can engage with buttons, or sliders to initiate explicit animations, adding an
 interactive and playful dimension to the app.
-Shared Preferences: The app incorporates Shared Preferences to enhance user customization.
+
+- Shared Preferences: The app incorporates Shared Preferences to enhance user customization.
 Users can save specific planet details as favorites, and this information is stored locally using
 Shared Preferences. The app provides a dedicated page where users can view their favorite
 planets, offering quick access to their preferred celestial bodies.
