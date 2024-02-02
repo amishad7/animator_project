@@ -38,6 +38,7 @@ dependencies:
   carousel_slider:
   provider:
   google_fonts:
+  get:
 
 dev_dependencies:
   flutter_test:
